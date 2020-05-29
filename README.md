@@ -8,7 +8,7 @@
 *	Use neutral colours (blue and grey usually works well)
 *	Use minimal number of colours (too many colours usually make it hard to understand graphs) 
 *	Different colours are usually associated with different categories categorical variables/discrete values)
-  * Avoid this if the categories are already distinguished i.e. a bar chart (avoid colour for colours sake)
+  * Avoid above if the categories are already distinguished i.e. a bar chart (avoid colour for colours sake)
 *	Gradient of colours is a thing
 *	Green = good, Red=bad/ Blue = good, Orange = bad
 *	Which one are you trying to divert attention to (maybe use a different colour /bolder colour?)
